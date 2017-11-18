@@ -1,0 +1,18 @@
+{
+  "name": "node-kottans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-prettier": "^2.7.0",
+    "eslint-plugin-jest": "^21.3.2",
+    "eslint-plugin-prettier": "^2.3.1",
+    "jest-cli": "^21.2.1"
+  }
+}
